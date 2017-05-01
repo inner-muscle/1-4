@@ -33,3 +33,8 @@ a{
 a:hover{
     color:#ff705b;
 }
+#lead{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
