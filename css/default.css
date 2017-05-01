@@ -9,7 +9,7 @@ h1{
     color: #3399cc;
     text-align:center;
 }
-h2.E::first-letter{
+h2:first-letter{
     font-size: 1.25em;
     color: #3399cc;
     border: #94c8b1 1px dotted; 
