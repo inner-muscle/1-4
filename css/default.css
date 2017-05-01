@@ -5,6 +5,7 @@ body{
 h1{
     font-size: 1.75em;
     color: #3399cc;
+    text-align:center;
 }
 h2{
     font-size: 1.25em;
@@ -23,4 +24,10 @@ li{
     font-size: 0.8em;
     background-color: #3399cc; 
     color: #333333;
+}
+a{
+    color:#df4839;
+}
+a:hover{
+    color:#ff705b;
 }
